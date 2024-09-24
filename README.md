@@ -1,5 +1,5 @@
 # Codepilot
-Codepilot is a programming buddy that is an expert on your codebase. You can add Codepilot to any project repo and it will taylor itself to the projects codebase.
+Codepilot is a programming buddy that is an expert on your codebase. You can add Codepilot to any project repo and it will tailor itself to the projects codebase.
 
 ## Installation
 

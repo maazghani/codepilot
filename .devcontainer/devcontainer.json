@@ -1,0 +1,5 @@
+{
+    "name": "codepilot devcontainer",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:0-18",
+    "postCreateCommand": "yarn install && npm install -g @stevenic/codepilot",
+}
